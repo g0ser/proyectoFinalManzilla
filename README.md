@@ -7,3 +7,5 @@ Las paginas que me centre en dejar responsive son el Inicio y la de Productos.
 
 Link repo: https://github.com/g0ser/preEntrega2-Manzilla.git
 Link page: https://g0ser.github.io/preEntrega2-Manzilla/
+
+Saludos!!!

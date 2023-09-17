@@ -1,11 +1,11 @@
 .imgNovedades1 {
-  width: 500px;
+  width: 700px;
   padding: 20px;
   margin: 20px;
 }
 
 .imgNovedades2 {
-  width: 470px;
+  width: 670px;
   padding: 20px;
   margin: 20px;
 }
@@ -100,7 +100,7 @@ a {
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
-  color: #fff;
+  color: white;
   padding: 15px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   line-height: 50px;
@@ -174,7 +174,7 @@ h1 {
   display: inline-block;
   padding: 10px 20px;
   background-color: rgb(223, 93, 18);
-  color: #fff;
+  color: white;
   text-transform: uppercase;
   border-radius: 5px;
   cursor: pointer;

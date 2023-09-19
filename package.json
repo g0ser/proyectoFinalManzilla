@@ -1,0 +1,16 @@
+{
+  "name": "goser",
+  "version": "1.0.0",
+  "description": "Hola buenas noches, trate de completar la preentrega lo mejor posible estando de viaje con una compu que no es la que uso siempre y con el tiempo muuy justo \r se que faltan varias cosas y cambios por agregar pero trate de solo cumplir con la consigna\r ya con mas tiempo cuando vuelva agregare y dejare lo mejor posible la pagina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass",
+    "sass:watch": "sass --watch scss/main.scss css/main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.67.0"
+  }
+}
